@@ -2,7 +2,9 @@
 
 <!-- **nitsuan/nitsuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<p align="center">
 Hey there, It's Nivas. I love everything tech, working with system level stuff due to my fond memories with linux😅, currently aspiring to be a systems engineer learning rust which to be honest is great until you wanna implement data structures😹, hold fare share of experience with front-end thanks to flutter and working on back-end with golang and some experience with python, mongodb, c++(need to rely on google a lot tho)
+</p>
 
 <p align="center">
 Also typical human so i have standard human hobbies like watching anime⏩, listening to music(crazy bout music🎵  "POP" 🎉), binging netflix, currently investing time on something useful like learning german, why german? Not sure myself.
