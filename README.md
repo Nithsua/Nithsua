@@ -30,8 +30,6 @@ Also typical human so i have standard human hobbies like watching anime⏩, list
 - 📫 How to reach me: On twitter - @nithsua</br>
 </p>
 
-</br>
-</br>
 <p align="center">
   <table>
     <tr>
