@@ -7,7 +7,7 @@ Hey there, It's Nivas. I love everything tech, working with system level stuff d
 </p>
 
 <p align="center">
-Also typical human so i have standard human hobbies like watching anime⏩, listening to music(crazy bout music🎵  "POP" 🎉), binging netflix, currently investing time on something useful like learning german, why german? Not sure myself.
+Also typical human so i have standard human hobbies like watching anime⏩, listening to music(crazy bout music🎵  "POP" 🎉), binging netflix, currently learning german.
 </p>
 
 <p align="center">
