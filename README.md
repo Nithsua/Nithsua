@@ -24,10 +24,7 @@ Also typical human hobbies like watching anime⏩, listening to music(crazy bout
 </p>
 
 <p align="center">
-- 🌱 I’m currently learning SwiftUI, Rustlang, Figma, Solana, Svelte</br>
-- 👯 I’m looking to collaborate on anything that's mindful</br>
-- 💬 Ask me about linux flutter</br>
-- 📫 How to reach me: On twitter - <a href="https://www.twitter.com/nithsua">@nithsua</a></br>
+- On twitter - <a href="https://www.twitter.com/nithsua">@nithsua</a></br>
 </p>
 
 <p align="center">
