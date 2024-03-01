@@ -30,7 +30,7 @@ Also typical human hobbies like watching anime⏩, listening to music(crazy bout
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Nithsua&show_icons=true&theme=dark"></img></td>
+<!--       <td><img src="https://github-readme-stats.vercel.app/api?username=Nithsua&show_icons=true&theme=dark"></img></td> -->
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithsua&layout=compact&theme=dark"></img></td>
     </tr>
   </table
