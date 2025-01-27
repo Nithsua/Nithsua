@@ -30,12 +30,14 @@ Hey there, It's Nivas. I love everything tech, working with system level stuff d
 </p>
 
 <p align="center">
-  <table>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6794aed632284498bcd747a6?variant=dark" alt="roadmap.sh"/></a>
+<!--   <table style="margin: 0 auto; border: none; border-style: hidden">
     <tr>
 <!--       <td><img src="https://github-readme-stats.vercel.app/api?username=Nithsua&show_icons=true&theme=dark"></img></td> -->
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithsua&layout=compact&theme=dark"></img></td>
-    </tr>
-  </table
+<!--       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithsua&layout=compact&theme=dark"></img></td>
+      <td><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6794aed632284498bcd747a6?variant=dark" alt="roadmap.sh"/></a></td>
+    </tr> -->
+<!--   </table -->
 </p>
 </br>
 </br>
